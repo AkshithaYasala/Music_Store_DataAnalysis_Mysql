@@ -106,7 +106,6 @@ The analysis helps the music store:
 
 This project demonstrates how SQL can be used to transform raw transactional data into valuable business insights. By applying advanced SQL concepts, the project provides meaningful recommendations that support strategic decision-making and improve overall business performance.
 
----
 
 ### Skills Demonstrated
 
