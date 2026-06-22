@@ -4,13 +4,11 @@
 
 The Music Store Data Analysis project focuses on analyzing a digital music store database to uncover customer purchasing behavior, sales trends, and business performance. Using SQL, the project extracts meaningful insights from transactional data to support data-driven decision-making.
 
----
 
 ## Business Problem
 
 The music store wants to understand customer behavior, identify top-performing artists and genres, analyze sales trends, and improve revenue generation through data-driven insights.
 
----
 
 ##  Project Objectives
 
@@ -20,7 +18,6 @@ The music store wants to understand customer behavior, identify top-performing a
 * Evaluate country-wise and city-wise sales performance.
 * Generate actionable business insights using SQL.
 
----
 
 ##  Tools & Technologies
 
@@ -29,7 +26,6 @@ The music store wants to understand customer behavior, identify top-performing a
 * **Techniques:** Joins, Subqueries, CTEs, Window Functions, Aggregate Functions
 * **Tool:** MySQL Workbench
 
----
 
 ## Database Tables
 
@@ -46,7 +42,6 @@ The database consists of multiple interconnected tables:
 * Playlist
 * Media_Type
 
----
 
 ##  Key Business Questions Solved
 
@@ -61,7 +56,6 @@ The database consists of multiple interconnected tables:
 9. Determine the most popular genre by country.
 10. Find the highest-spending customer in each country.
 
----
 
 ##  SQL Concepts Used
 
@@ -76,7 +70,6 @@ The database consists of multiple interconnected tables:
 * Aggregate Functions
 * Ranking Functions
 
----
 
 ##  Key Insights
 
@@ -87,7 +80,6 @@ The database consists of multiple interconnected tables:
 * Customer spending patterns varied across countries.
 * Genre preferences differed by region.
 
----
 
 ##  Business Impact
 
@@ -100,7 +92,6 @@ The analysis helps the music store:
 * Optimize product recommendations.
 * Support revenue growth through data-driven decisions.
 
----
 
 ##  Conclusion
 
@@ -117,5 +108,5 @@ This project demonstrates how SQL can be used to transform raw transactional dat
  Window Functions
  Data Analysis
  Business Insights
-✔ Problem Solving
-✔ Data-Driven Decision Making
+ Problem Solving
+ Data-Driven Decision Making
