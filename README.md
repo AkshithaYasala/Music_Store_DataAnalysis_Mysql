@@ -100,13 +100,13 @@ This project demonstrates how SQL can be used to transform raw transactional dat
 
 ### Skills Demonstrated
 
- SQL
- MySQL
- Joins
- Subqueries
- CTEs
- Window Functions
- Data Analysis
- Business Insights
- Problem Solving
- Data-Driven Decision Making
+ + SQL
+ + MySQL
+ + Joins
+ + Subqueries
+ + CTEs
+ + Window Functions
+ + Data Analysis
+ + Business Insights
+ + Problem Solving
+ + Data-Driven Decision Making
